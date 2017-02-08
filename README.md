@@ -1,2 +1,2 @@
 # URLClassLoaderJarPath
-load class or method of jar by romote url
+load class or method of jar by remote url
